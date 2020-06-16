@@ -3,6 +3,6 @@
   left: 0; 
     
   /* Preserve aspet ratio */
-  width: auto;
+  width: 100%;
   height: 100%;
 }
