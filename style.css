@@ -1,5 +1,5 @@
 #infoimg{
 
-  max-width: 100%;
-  height: auto;
+  width=device-width;
+  height = auto;
 }
