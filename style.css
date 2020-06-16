@@ -3,3 +3,8 @@
   width=device-width;
   height = auto;
 }
+
+body{
+  display: flex;
+  justify-content: center;
+}  
